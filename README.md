@@ -2,13 +2,13 @@
 Indian Pines Feature Selection using glmnet
 
 # File Description
-- Feature_Selection-current.ipynb 
+## Feature_Selection-current.ipynb 
 using ungrouped lasso algorithm doing feature seletion upon Indian Pines Data
 
-- Feature_Selection-grouped_.ipynb
+## Feature_Selection-grouped_.ipynb
 using grouped lasso algorithm doing feature seletion upon Indian Pines Data
 
-- glmnet.py
+## glmnet.py
 Modified glmnet.py source code from https://github.com/bbalasub1/glmnet_python
 
 ##  
